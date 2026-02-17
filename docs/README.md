@@ -25,14 +25,14 @@ The OctoAcme framework defines three primary **personas**: **Developers** build 
 
 ## OctoAcme Process Documents
 
-- <a href="octoacme-project-management-overview.md">Project Management Overview</a>
-- <a href="octoacme-project-initiation.md">Project Initiation Guide</a>
-- <a href="octoacme-project-planning.md">Project Planning</a>
-- <a href="octoacme-execution-and-tracking.md">Execution &amp; Tracking</a>
-- <a href="octoacme-risks-and-communication.md">Risk Management &amp; Communication</a>
-- <a href="octoacme-release-and-deployment.md">Release &amp; Deployment Guide</a>
-- <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
-- <a href="octoacme-roles-and-personas.md">Roles and Personas</a>
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
 
 ---
 
